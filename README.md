@@ -8,7 +8,7 @@
   + 资讯 ``` mkdir news ```
   + 产品 ``` mkdir products ```
   + 活动 ``` mkdir activities ```
-  +组件 ``` mkdir components ``` (列表共同部分，文章详情)
+  + 组件 ``` mkdir components ``` (列表共同部分，文章详情)
     - list ``` mkdir list ```
     - page ``` mkdir page ```
 
