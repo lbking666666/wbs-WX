@@ -4,7 +4,7 @@
 
 ## 页面路径
     首页 
-    ``` bash
+   ``` bash
     mkdir Home
     ```
     发现 
