@@ -1,14 +1,20 @@
 # 鑫茂荣信财富小程序
 
-## 页面路径
-- 首页 ``` bash mkdir Home ```
+## 页面路径 
+* pages文件下 *
+- 首页 ```  mkdir Home ```
 
-- 发现
-``` bash
-mkdir Find
-```
+- 发现 ``` mkdir Find ``` 
+* Find文件夹下 *
++ 资讯 ``` mkdir news ```
++ 产品 ``` mkdir products ```
++ 活动 ``` mkdir activities ```
++ common ``` nkdir common ``` (列表共同部分，文章详情)
+- list
+- page
 
-- 我
-``` bash
-mkdir Me
-```
+- 我 ``` mkdir Me ```
++ 关于 ``` mkdir about ```
++ 消息 ``` mkdir messages ```
++ 注册 ``` mkdir regist ```
++ 登录 ``` mkdir login ```
